@@ -11,15 +11,12 @@
     display: flex;
 }
 .nav{
-    background-color: #b1b1b1;
     padding: 2%;
     width: 80%;
 }
-
 .img{
     width: 20%;
     padding-right: 5%;
-    background-color: #4349d3;
 }
 .navclick {
     list-style: none;
@@ -31,7 +28,6 @@
     width: 80%;
     margin: 5%;   
 }
-
 .flex {
     display: flex;
 }
@@ -41,7 +37,6 @@
     padding-top: 5%;
     padding-right: 10%;
     width: 75%;
-    background-color: chocolate;
 }
 .homefront {
     padding-bottom: 15%;
@@ -65,283 +60,56 @@
     padding-bottom: 10%;
     width: 80%;
 }
-.pix {
+.pix1 {
     padding-right: 10%;
     padding-top: 12%;
 }
-.pic {
+.pic1 {
     width: 90%;
     border-radius: 2%;
 }
-
-
-
-/* .hflogo {
-    padding-left: 50px;
-    padding-right: 20px;
-    padding-top: 15px;
+.sub-head {
+    text-align: center;
+    padding-bottom: 10%;
 }
-.ul {
-    font-size: 12;
+.sub-head:last-child {
+    padding-bottom: 0;
 }
-
-.nav-homelink {
-    display: inline-block;
-    padding-left: 100px;
-       padding-top: 15px;
-   
-}
-.about-melink {
-    display: inline-block;
-    padding-left: 100px;
-    padding-bottom: 10px;
-    padding-top: 15px;
-}
-.expertiselink {
-    display: inline-block;
-    padding-left: 100px;
-    padding-bottom: 10px;
-    padding-top: 15px;
-}
-.contactlink {
-    display: inline-block;
-    padding-left: 100px;
-    padding-bottom: 10px;
-    padding-top: 15px;
-    color: #000000;
-    text-decoration-color: #000000;
-    text-decoration-line: none;
-    border-bottom-color: chartreuse;
-}
-.main {
-    font-family: 'Poppins', sans-serif;
-    
-}
-.parent {
-    display: flex;
-    padding-left: 100px;
-    width: 50%;
-}
-.homefront {
- 
-    padding-bottom: 100px;
-    padding-top: 50px;
-    font-weight: 400;
-    font-size: 14px;
-}
-.hello {
-    padding-bottom: 10px;
-    padding-top: 0px;
-    font-size: 14px;
-    font-weight: 600px;
-}
-.myname {
-    padding-bottom: 25px;
-    padding-top: 0px;
-    font-size: 40px;
-}
-.freelance {
-    padding-top: 25px;
-    padding-bottom: 150px;
-    content: ;
-}
-.button {
-    background-color: #4349d3;
-    color: #ffffff;
-    display: block;
-    width: 25%;
-    border-radius: 25px;
-    margin-bottom: 10px;
-    padding: 10px;
-}
-.pic {
-    border: 20px;
-    width: 5px;
-    padding-right: 10%;
-    padding-top: 20%;
-    padding-left: 5%;
+.page2 
+{
+    padding: 15%;
 }
 .page {
     display: flex;
 }
-.read {
-    background-color: #4349d3;
-    color: #ffffff;
-    width: 25%;
-    border-radius: 25px;
-    margin-bottom: 10px;
-    padding-left: 150px;
-    padding: 10px;
-    align-content: center;
-}
-.about {
-    text-align: center;
-    padding-bottom: 5%;
-    padding-left: 5%;
+.pix2 {
+    padding-right: 22%;
 }
 .pic2 {
-    padding-left: 10%;
-}
-
-.i-am {
-    padding-left: 10%;
-    font-size: 14px;
-}
-.expertise {
-    text-align: center;
-    padding: 1%;
-    border: 1%;
-    margin: 1%;
-}
-.parentufb {
-    display: flex;
-    margin: 5%;    
-}
-.uiux {
-    padding: 2%;
-    background-color: #F0E8E8;
-    
-    border: 2px, solid black;
-    margin: 2%;
-    border-radius: 10;
-}
-.frontend {
-    padding: 2%;
-    background-color: #F0E8E8;
-    border: 2%;
-    margin: 2%;
-}
-.backend {
-    padding: 2%;
-    background-color: #F0E8E8;
-    border: 2%;
-    margin: 2%;
-}
-.uitext {
-    font-size: 12px;
-    text-align: justify;
-    }
-.fetext {
-    font-size: 12px;
-    text-align: justify;
-    }
-.betext {
-    font-size: 12px;
-    text-align: justify;
-    }
-.ui {
-    text-align: center;
-    padding: 0px;
-    margin: 10px;
-}
-.fe {
-    text-align: center;
-    padding: 0px;
-    margin: 10px;
-}
-.be {
-    text-align: center;
-    padding: 0px;
-    margin: 10px;
-}
-.imgui {
-    padding-left: 40%;
-}
-.imgfe {
-    padding-left: 40%;
-}
-.imgbe {
-    padding-left: 40%;
-}
-.contact {
-    text-align: center;
-    padding-bottom: 5%;
-    padding-left: 5%;
-}
-.form {
-    display: flex;
-    flex-direction: column;
-    padding: 20px;
-    height: 70%;
-    width:30%;
-    margin-left: 350px;
-    background-color: #F0E8E8;
-    margin-bottom: 26px;
-    border: 0;
     border-radius: 2%;
 }
-.lock {
-    margin-bottom: 46px;
-    background-color: #F0E8E8;
-    border-top-style: hidden;
-    border-right-style: hidden;
-    border-left-style: hidden;
-    border-bottom-style: groove;
-    border-left-width: 30px;
-   }
-   .cock {
-    margin-bottom: 46px;
-    background-color: #F0E8E8;
-    border-top-style: hidden;
-    border-right-style: hidden;
-    border-left-style: hidden;
-    border-bottom-style: groove;
-   }
-   .bock {
-    margin-bottom: 46px;
-    background-color: #F0E8E8;
-    border-top-style: hidden;
-    border-right-style: hidden;
-    border-left-style: hidden;
-    border-bottom-style: groove;
-    padding-top: 60px;
-   }
-.blue {
-    width: 150px;
-    height: 30px;
-    background-color: #4349D3;
-    color: white;
-    border-radius: 20px;
-    align-self: center;
-
+.para-i-am {
+    padding-bottom: 20%;
 }
-.feel {
+.page3 {
+    display: flex;
+    margin: 0 5% 0 10%;
+    padding-bottom: 15%;
+}
+.call-out {
+    padding: 2%;
+    width: 30%;
+    margin-right: 3%;
+    border-radius: 2%;
+    background-color: rgb(247, 241, 241);
+}
+.call-out-icon{
+    padding-left: 43%;
+}
+.call-out-head {
     text-align: center;
-    padding-bottom: 50px;
-    margin-top: 0;
+    padding-bottom: 5%;
 }
-    .logos {
-        padding-left: 32%;
-        padding-top: 5%;
-    }
-.bg {
-    background-color: #4349d3;
+.call-out-text {
+    font-size: 90%;
 }
-
-.foot-home {
-    display: inline-block;
-    padding-left: 100px;
-    padding-top: 15px;
-   
-}
-.foot-about {
-    display: inline-block;
-    padding-left: 100px;
-    padding-bottom: 10px;
-    padding-top: 15px;
-}
-.foot-expertise {
-    display: inline-block;
-    padding-left: 100px;
-    padding-bottom: 10px;
-    padding-top: 15px;
-}
-.foot-contact {
-    display: inline-block;
-    padding-left: 100px;
-    padding-bottom: 10px;
-    padding-top: 15px;
-    color: #000000;
-    text-decoration-color: #000000;
-    text-decoration-line: none;
-    border-bottom-color: chartreuse; */
