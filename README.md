@@ -37,4 +37,4 @@ This project is about creating my portfolio web page containing my expertise, sp
 * This project is open to your comments and contributions, kindly reach the author through the above author's social media handles.
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/50f2444f-15f3-43fb-ac5f-60c024b957e1/deploy-status)](https://app.netlify.com/sites/eminentezekiel-taco-joint/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6a32d781-8f7d-431f-a0b1-3524b720f014/deploy-status)](https://app.netlify.com/sites/eminentezekiel-my-portfolio/deploys)
