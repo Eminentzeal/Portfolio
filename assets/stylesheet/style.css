@@ -1,162 +1,195 @@
 * {
-    border: 0;
-    margin: 0;
-    padding: 0;
+  border: 0;
+  margin: 0;
+  padding: 0;
 }
+
 .body {
-    font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
+
 .pnav {
-    display: flex;
+  display: flex;
 }
+
 .nav{
-    padding: 2%;
-    width: 80%;
+  padding: 2%;
+  width: 80%;
 }
+
 .img{
-    width: 20%;
-    padding-right: 5%;
+  width: 20%;
+  padding-right: 5%;
 }
+
 .navclick {
-    list-style: none;
-    padding-right: 6%;
-    display: inline-block;
-    font-size: 100%;
+  list-style: none;
+  padding-right: 6%;
+  display: inline-block;
+  font-size: 100%;
 }
+
 .hflogo {
-    width: 80%;
-    margin: 5%;   
+  width: 80%;
+  margin: 5%;   
 }
+
 .flex {
-    display: flex;
+  display: flex;
 }
+
 .home {
-    line-height: 160%;
-    padding-left: 10%;
-    padding-top: 5%;
-    padding-right: 10%;
-    width: 75%;
+  line-height: 160%;
+  padding-left: 10%;
+  padding-top: 5%;
+  padding-right: 10%;
+  width: 75%;
 }
+
 .homefront {
-    padding-bottom: 15%;
+  padding-bottom: 15%;
 }
+
 .button {
-    background-color: #4349d3;
-    color: #ffffff;
-    width: 20%;
-    border-radius: 25px;
-    padding: 2%;
+  background-color: #4349d3;
+  color: #ffffff;
+  width: 20%;
+  border-radius: 25px;
+  padding: 2%;
 }
+
 .hello {
-    padding-bottom: 5%;
+  padding-bottom: 5%;
 }
+
 .myname{
-    padding-bottom: 10%;
-    font-weight: 1000;
-    font-size: 230%;
+  padding-bottom: 10%;
+  font-weight: 1000;
+  font-size: 230%;
 }
+
 .freelance {
-    padding-bottom: 10%;
-    width: 80%;
+  padding-bottom: 10%;
+  width: 80%;
 }
+
 .pix1 {
-    padding-right: 10%;
-    padding-top: 12%;
+  padding-right: 10%;
+  padding-top: 12%;
 }
+
 .pic1 {
-    width: 90%;
-    border-radius: 2%;
+  width: 90%;
+  border-radius: 2%;
 }
+
 .sub-head {
-    text-align: center;
-    padding-bottom: 10%;
+  text-align: center;
+  padding-bottom: 10%;
 }
+
 .sub-head:last-child {
-    padding-bottom: 0;
+  padding-bottom: 0;
 }
-.page2 
-{
-    padding: 15%;
+
+.page2 {
+  padding: 15%;
 }
+
 .page {
-    display: flex;
+  display: flex;
 }
+
 .pix2 {
-    padding-right: 22%;
+  padding-right: 22%;
 }
+
 .pic2 {
-    border-radius: 2%;
+  border-radius: 2%;
 }
+
 .para-i-am {
-    padding-bottom: 20%;
+  padding-bottom: 20%;
 }
+
 .button2 {
-    background-color: #4349d3;
-    color: #ffffff;
-    border-radius: 25px;
-    padding: 2%;
-    width: 30%;
+  background-color: #4349d3;
+  color: #ffffff;
+  border-radius: 25px;
+  padding: 2%;
+  width: 30%;
 }
+
 .page3 {
-    display: flex;
-    margin: 0 5% 0 10%;
-    padding-bottom: 15%;
+  display: flex;
+  margin: 0 5% 0 10%;
+  padding-bottom: 15%;
 }
+
 .call-out {
-    padding: 2%;
-    width: 30%;
-    margin-right: 3%;
-    border-radius: 2%;
-    background-color: rgb(247, 241, 241);
+  padding: 2%;
+  width: 30%;
+  margin-right: 3%;
+  border-radius: 2%;
+  background-color: rgb(247, 241, 241);
 }
+
 .call-out-icon{
-    padding-left: 43%;
+  padding-left: 43%;
 }
 .call-out-head {
-    text-align: center;
-    padding-bottom: 5%;
+  text-align: center;
+  padding-bottom: 5%;
 }
+
 .call-out-text {
-    font-size: 90%;
+  font-size: 90%;
 }
+
 .form {
-    background-color: rgb(247, 241, 241);
-    display: flex;
-    flex-direction: column;
-    padding: 3%;
-    width:30%;
-    margin: 0% 32%;
-    border-radius: 2%;
+  background-color: rgb(247, 241, 241);
+  display: flex;
+  flex-direction: column;
+  padding: 3%;
+  width:30%;
+  margin: 0% 32%;
+  border-radius: 2%;
 }
+
 .feel {
-    text-align: center;
-    margin-bottom: 20%;
+  text-align: center;
+  margin-bottom: 20%;
 }
+
 .form-input {
-    background-color: rgb(247, 241, 241);
-    margin-bottom: 20%;
-    border: groove;
-    border-top: hidden;
-    border-right: hidden;
-    border-left: hidden;
-    border-bottom: 1px solid #000;    
-    height: 2em;
+  background-color: rgb(247, 241, 241);
+  margin-bottom: 20%;
+  border: groove;
+  border-top: hidden;
+  border-right: hidden;
+  border-left: hidden;
+  border-bottom: 1px solid #000;    
+  height: 2em;
 }
+
 .button3 {
-    margin-left: 34%;
-    background-color: #4349d3;
-    color: #ffffff;
-    border-radius: 25px;
-    padding: 2%;
-    width: 30%;
+  margin-left: 34%;
+  background-color: #4349d3;
+  color: #ffffff;
+  border-radius: 25px;
+  padding: 2%;
+  width: 30%;
 }
+
 .logos {
-    padding-left: 21.5%;
-    padding-top: 5%;
+  padding-left: 21.5%;
+  padding-top: 5%;
 }
+
 .logo-click {
-    padding-right: 6%;
+  padding-right: 6%;
 }
+
 .p-footer {
-    background-color: #4349d3;
+  background-color: #4349d3;
 }
