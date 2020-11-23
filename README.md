@@ -31,7 +31,7 @@ This project is about creating my portfolio web page containing my expertise, sp
   * https://www.linkedin.com/company/michub/
 
 ## Live Demo
-[See project live here](https://eminentezekiel-taco-joint.netlify.app/)
+[See project live here](https://eminentezekiel-my-portfolio.netlify.app/)
 
 ## 🤝 Contributions
 * This project is open to your comments and contributions, kindly reach the author through the above author's social media handles.
